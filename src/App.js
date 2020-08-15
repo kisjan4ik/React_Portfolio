@@ -22,7 +22,11 @@ class App extends React.Component {
       ],
       about: {
         title: "About me",
-        text: "my story"
+        text: "my story",
+        github: "https://github.com/kisjan4ik",
+        linkedin: "https://www.linkedin.com/in/olena-turetska-82126a191/",
+        email: "aliona_kuzmenko@yahoo.com",
+        phone: "407-308-16-72"
 
       },
       portfolio: {
@@ -54,6 +58,7 @@ class App extends React.Component {
           <Route path="/" exact render={() => <AboutPage title={this.state.about.title} text={this.state.about.text} />} />
           <Route path="/portfolio" render={() => <PortfolioPage title={this.state.portfolio.title} subtitle={this.state.portfolio.subtitle} />} />
           <Route path="/contact" exact render={() => <ContactPage title={this.state.contact.title} />} />
+          <Route path="/React_Portfolio" render={() => <AboutPage title={this.state.about.title} text={this.state.about.text} />} />
 
           <Footer />
         </Container>

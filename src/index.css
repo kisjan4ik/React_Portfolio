@@ -38,3 +38,24 @@ code {
   font-size: 16px;
   margin:0px;
 }
+.t-about-image {
+  border-radius: 15px;
+  width: 450px;
+  height: 300px;
+  margin-right: 25px;
+  margin-bottom: 15px;
+  float: left;
+  box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.t-about-text {
+ font-size: 18px;
+}
+
+.icons{
+  float:left;
+  padding-left: 18px;
+  display: grid;
+  vertical-align: middle;
+
+}
