@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+a {
+  padding-right:150px;
+  padding-left: 50px;
+}
+
 .t-card {
   margin: 20px;
 
@@ -52,10 +57,19 @@ code {
  font-size: 18px;
 }
 
-.icons{
-  float:left;
-  padding-left: 18px;
-  display: grid;
-  vertical-align: middle;
+#icons{
+  display: inline-table;
+  justify-content: center;
+  margin-bottom: 15px;
 
+}
+
+.success-msg {
+  color: #57A773;
+  padding: 10px 15px;
+}
+
+.err-msg {
+  color: #EE6352;
+  padding: 10px 15px;
 }

@@ -4,19 +4,17 @@ import Content from "../components/Content";
 import me from "../assets/images/me.jpg"
 import { MDBIcon } from "mdbreact";
 
+
 function AboutPage(props) {
     return (
         <div>
             <Hero title={props.title} />
-            <div className="icons">
-                    <a href="https://github.com/kisjan4ik" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="github" size="3x" className="mb-3" /></a>
-                    <a href="https://www.linkedin.com/in/olena-turetska-82126a191/" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="linkedin" size="3x" className="mb-3" /></a>
-                    <p> <MDBIcon icon="envelope" size="3x" /> aliona_kuzmenko@yahoo.com</p>
-                    <p><MDBIcon icon="phone-square" size="3x" /> 407-308-16-72</p>
-                </div>
+
+
             <Content>
 
-                
+
+
                 <img className="t-about-image" src={me} alt="Olena Turetska" />
 
                 <div className="t-about-text">
@@ -46,9 +44,19 @@ function AboutPage(props) {
                         You can find my <a href="https://drive.google.com/file/d/1r3BJgwF9QB9e0eGWQN3milVVGOp74fK0/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
                     </p>
                 </div>
+                
+                <div id="icons">
+                    <a href="https://github.com/kisjan4ik" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="github" size="3x" /></a>
+                    <a href="https://www.linkedin.com/in/olena-turetska-82126a191/" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="linkedin" size="3x" /></a>
+                    </div>
+                    <div id="icons">
+                    <MDBIcon icon="envelope" size="3x" /> aliona_kuzmenko@yahoo.com
+                    <MDBIcon icon="phone-square" size="3x" className="pl-5"/> 407-308-16-72
+                    </div>
             </Content>
 
         </div>
+
     )
 }
 
