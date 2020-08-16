@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Links to the repository on Github.com and on Github Pages are the following:
+
+ https://github.com/kisjan4ik/React_Portfolio
+
+ https://kisjan4ik.github.io/React_Portfolio/
+
+© Copyright 2020
+
 ## Available Scripts
 
 In the project directory, you can run:
