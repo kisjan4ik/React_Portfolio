@@ -4,9 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  https://github.com/kisjan4ik/React_Portfolio
 
- https://kisjan4ik.github.io/React_Portfolio/
+ https://kisjan4ik.github.io/React_Portfolio/ 
 
-© Copyright 2020
 
 ## Available Scripts
 
