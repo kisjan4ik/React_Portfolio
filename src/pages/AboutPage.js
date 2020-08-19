@@ -18,30 +18,11 @@ function AboutPage(props) {
                 <img className="t-about-image" src={me} alt="Olena Turetska" />
 
                 <div className="t-about-text">
-                    <p> It was always easy for me to learn and that is why I almost never had to work hard while
-                    learning new stuff.
-                    I started to work for a big company when I still was studying in an University. Back then I
-                    lived in Ukraine and my position in the copmany was a translator of technical documentation,
-                    mostly I translated documents from Russian into English.
-                    </p>
-                    <p> Then I decided to find a job that would be closer to my major and that's why I worked for a
-                    while in a bank.
-                    I was thinking not once in my life that programming is an interesting thing to do but always
-                    thought one shoud have a specifically "built" brain to do it. And that was the reason I had
-                    never tried learning to code.
-                    </p>
-                    <p> But I've moved to USA a couple of years ago and have decided that it was already a big change in
-                    my life and what is the reason not to try to make another one. This is how I found the UCF
-                        Bootcamp. </p>
-                    <p> I can say now that this is exciting and hard at the same time. It is one of those rare times I
-                    really need to work hard to learn and understand the stuff. But I really enjoy that I can
-                    actually see what I have built and that gives me an inspiration I've never had before, because
-                    all my previous jobs did not have an option for me to actually see the result of my work.
-                        <br />
-                        I have big expectaions about what I will know and what I will be able to do after this Bootcamp
-                        and I will do my best in learning!
-                        <br />
-                        You can find my <a href="https://drive.google.com/file/d/1r3BJgwF9QB9e0eGWQN3milVVGOp74fK0/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
+                    <p> The world of computers and technologies has integrated in our life for the past couple of decades incredibly. I am sure that future is bringing to us even bigger and deeper changes. I was intrigued by programming and being able to use these technologies from inside and not just as user for years and I am realizing my interest and passion now by studying in UCF Coding Bootcamp. My goal is to become a Full Stack Web Developer and to be able to create, build and develop projects. 
+                        
+                        Studying in UCF Coding Bottcamp I've gained and continue to improve skills, such as:
+                        HTML5, CSS3, JavaScript (ES6),  jQuery, Bootstrap, React, Node & NPM, Express, MySQL, MongoDB,Git                        <br />
+                        You can find my <a href="https://drive.google.com/file/d/1v20n-S2v60kDGh-8Q3vfvvaFIvZPJ3Dk/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
                     </p>
                 </div>
                 
