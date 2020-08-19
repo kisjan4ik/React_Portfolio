@@ -8,7 +8,7 @@ function Footer() {
 
     return (
         <footer className="mt-5">
-<Container fluid={true}>
+<Container id="nav"  fluid={true}>
     <Row className="border-top justify-content-center p-3">
 <Col className="p-0 text-center display-5" md={3} sm={12}>
 Copyright © 2020 - Olena Turetska. All Rights Reserved.

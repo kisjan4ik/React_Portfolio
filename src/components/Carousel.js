@@ -76,7 +76,7 @@ makeItems = (items) => {
 
     render() {
         return (
-            <Container fluid={true}>
+            <Container id="body" fluid={true}>
                 <Row className="justify-content-around">
                     {this.makeItems(this.state.items)}
 
