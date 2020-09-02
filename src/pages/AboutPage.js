@@ -18,12 +18,13 @@ function AboutPage(props) {
                 <img className="t-about-image" src={me} alt="Olena Turetska" />
 
                 <div className="t-about-text">
-                    <p> The world of computers and technologies has integrated in our life for the past couple of decades incredibly. </p>
-                    <p>I am sure that future is bringing to us even bigger and deeper changes.
-                        <p> I was intrigued by programming and being able to use these technologies from inside and not just as user for years and I am realizing my interest and passion now by studying in UCF Coding Bootcamp. My goal is to become a Full Stack Web Developer and to be able to create, build and develop projects. </p>
-                        
-                        <p></p>Studying in UCF Coding Bottcamp I've gained and continue to improve skills, such as:
-                        HTML5, CSS3, JavaScript (ES6),  jQuery, Bootstrap, React, Node & NPM, Express, MySQL, MongoDB, and Git.               <br />
+                    <p> Full Stack Web Developer equipped with HTML5, CSS3, JavaScript (ES6), MongoDB, MySQL and specialized in building web applications using Node and React. </p>
+                    <p>Coming from Transportation Safety Management I received my Full Stack Developer Certificate from the UCF Coding Bootcamp in August 2020. The main focus of my education was to gain technical programming skills and to be able to build beautiful and useful applications and work on big projects with other developers.</p>
+                    <p>Skills from my previous experience I am sure are helping me in programming. Those are attention to details, problem-solving, communication and teamwork. </p>
+                    <p>Within UCF Bootcamp me and my colleagues were building projects using Express, Node, MySQL. I myself enjoy working with React and Front End, making an application not only work fail-free but also look great. In my final MERN project in UCF I’ve brought to life the idea and the design of the application I once was looking for myself and didn’t find.</p>
+                    <p>My passion and hard work in gaining knowledge is proven by my A+ score. And I am looking forward to implementing my knowledge and ideas in Web Development.</p>
+                           <br />
+                           <p>
                         You can find my <a href="https://drive.google.com/file/d/1v20n-S2v60kDGh-8Q3vfvvaFIvZPJ3Dk/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
                     </p>
                 </div>
