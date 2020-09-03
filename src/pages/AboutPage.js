@@ -25,7 +25,7 @@ function AboutPage(props) {
                     <p>My passion and hard work in gaining knowledge is proven by my A+ score. And I am looking forward to implementing my knowledge and ideas in Web Development.</p>
                            <br />
                            <p>
-                        You can find my <a href="https://drive.google.com/file/d/1v20n-S2v60kDGh-8Q3vfvvaFIvZPJ3Dk/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
+                        You can find my <a href="https://drive.google.com/file/d/1mPKHmrosQ5fSsAAzsi1KTm3UHBgk15nF/view?usp=sharing" target="_blank" rel="noopener noreferrer">resume</a> here.
                     </p>
                 </div>
                 
