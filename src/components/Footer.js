@@ -11,7 +11,9 @@ function Footer() {
 <Container id="nav"  fluid={true}>
     <Row className="border-top justify-content-center p-3">
 <Col className="p-0 text-center display-5" md={3} sm={12}>
-Copyright © 2020 - Olena Turetska. All Rights Reserved.
+Copyright © 2020 - Olena Turetska. 
+<br></br>
+All Rights Reserved.
 </Col>
     </Row>
 </Container>

@@ -34,7 +34,7 @@ function AboutPage(props) {
                     <a href="https://www.linkedin.com/in/olena-turetska-82126a191/" target="_blank" rel="noopener noreferrer"><MDBIcon fab icon="linkedin" size="3x" /></a>
                     </div>
                     <div id="icons">
-                    <MDBIcon icon="envelope" size="3x" /> aliona_kuzmenko@yahoo.com
+                    <MDBIcon icon="envelope" size="3x" /> turetska.olenka@gmail.com
                     <MDBIcon icon="phone-square" size="3x" className="pl-5"/> 407-308-16-72
                     </div>
             </Content>

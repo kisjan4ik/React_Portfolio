@@ -4,6 +4,7 @@ import xfiles from "../assets/images/xfiles.jpg";
 import mvc from "../assets/images/mvc.jpg";
 import project1 from "../assets/images/project1.jpg";
 import password from "../assets/images/password.jpg";
+import yrkdng from "../assets/images/yourkidding.JPG";
 import Row from "react-bootstrap/Row";
 import Container from  "react-bootstrap/Container";
 
@@ -46,6 +47,14 @@ class Carousel extends React.Component {
                     link: "https://kisjan4ik.github.io/JavaScript-Password-Generator/",
                     selected: false
                 },
+                {
+                    id: 4,
+                    title: "Your KID-ing",
+                    subtitle: "Web application to find entertainment for kids",
+                    imgSrc: yrkdng,
+                    link: "https://calm-basin-38354.herokuapp.com/",
+                    selected: false
+                }
 
 
             ]
